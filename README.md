@@ -14,7 +14,7 @@ Sou **Full Stack Software Engineer**, com atuação no desenvolvimento e na manu
 
 Minha experiência também envolve bancos de dados MySQL, deploy e troubleshooting em ambientes Linux/Apache, serviços AWS, testes automatizados e investigação de problemas de desempenho, cache, consultas e integrações externas.
 
-Sou tecnólogo em **Sistemas para Internet pelo IFRN**, possuo **três certificações AWS** e continuo aprofundando meus estudos em arquitetura de software, cloud engineering, inteligência artificial e ciência de dados.
+Sou tecnólogo em **Sistemas para Internet pelo IFRN**, possuo **três certificações AWS** e atualmente curso pós-graduação em **Inteligência Artificial e Ciência de Dados**. Também continuo aprofundando meus estudos em arquitetura de software e cloud engineering.
 
 Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escrita e conversação.
 
