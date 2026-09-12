@@ -16,11 +16,13 @@ Minha experiência também envolve bancos de dados MySQL, deploy e troubleshooti
 
 Sou tecnólogo em **Sistemas para Internet pelo IFRN**, possuo **três certificações AWS** e continuo aprofundando meus estudos em arquitetura de software, cloud engineering, inteligência artificial e ciência de dados.
 
+Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escrita e conversação.
+
 ## Áreas de atuação
 
 - **Backend e APIs:** serviços RESTful, integrações externas, regras de negócio e aplicações PHP/Laravel e Python/FastAPI.
 - **Desenvolvimento full stack:** construção e evolução de produtos web do banco de dados à interface.
-- **Cloud e produção:** AWS, Docker, Linux, Apache, deploy, observabilidade e diagnóstico de incidentes.
+- **Cloud e produção:** AWS, Docker, Linux, Apache, deploy, manutenção de ambientes e diagnóstico de incidentes.
 - **Qualidade de software:** testes automatizados, GitFlow, SOLID, Design Patterns e arquitetura de software.
 
 ## Tecnologias
