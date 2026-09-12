@@ -82,11 +82,9 @@ Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escri
 - Inteligência artificial aplicada a produtos digitais.
 - Privacidade, segurança e qualidade de software.
 
-## Atividade pública
+## Vamos conversar?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnosLima&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos de Magnos Lima" height="165">
-</p>
+Gosto de trocar experiências sobre desenvolvimento full stack, backend, arquitetura, cloud e aplicações de inteligência artificial. Meus repositórios públicos mostram um pouco do que venho construindo e estudando.
 
 <p align="center">
   <a href="https://github.com/MagnosLima?tab=repositories">Ver todos os repositórios</a>
