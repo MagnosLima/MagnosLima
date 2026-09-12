@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://candidatos-rn-2026.netlify.app/"><img src="https://img.shields.io/badge/projeto%20em%20destaque-Eleições%202026%20RN-6d5dfc?style=for-the-badge" alt="Projeto Eleições 2026 RN"></a>
+  <a href="https://www.linkedin.com/in/magnos-lima/"><img src="https://img.shields.io/badge/LinkedIn-Magnos%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/mag.lima.ig/"><img src="https://img.shields.io/badge/Instagram-mag.lima.ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
@@ -50,6 +51,8 @@ Atualmente, meus estudos e projetos envolvem desenvolvimento full stack, integra
 
 <p align="center">
   <a href="https://github.com/MagnosLima?tab=repositories">Ver todos os repositórios</a>
+  ·
+  <a href="https://www.linkedin.com/in/magnos-lima/">Conectar no LinkedIn</a>
   ·
   <a href="https://www.instagram.com/mag.lima.ig/">Conversar pelo Instagram</a>
 </p>
