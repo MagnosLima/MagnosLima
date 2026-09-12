@@ -1,33 +1,37 @@
 <p align="center">
+  <strong>English</strong> · <a href="./README.pt-BR.md">Português</a>
+</p>
+
+<p align="center">
   <img src="./assets/profile-header.svg" alt="Magnos Lima — Full Stack Software Engineer" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/magnos-lima/"><img src="https://img.shields.io/badge/LinkedIn-Magnos%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://candidatos-rn-2026.netlify.app/"><img src="https://img.shields.io/badge/projeto%20em%20destaque-Eleições%202026%20RN-6d5dfc?style=for-the-badge" alt="Projeto Eleições 2026 RN"></a>
+  <a href="https://candidatos-rn-2026.netlify.app/"><img src="https://img.shields.io/badge/featured%20project-Eleições%202026%20RN-6d5dfc?style=for-the-badge" alt="Featured project: Eleições 2026 RN"></a>
   <a href="https://www.instagram.com/mag.lima.ig/"><img src="https://img.shields.io/badge/Instagram-mag.lima.ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## Olá! Eu sou o Magnos 👋
+## Hi, I'm Magnos 👋
 
-Sou **Full Stack Software Engineer**, com atuação no desenvolvimento e na manutenção de aplicações web, APIs RESTful e integrações entre sistemas. Trabalho em todo o ciclo da aplicação, com maior ênfase em **backend com PHP/Laravel e Python/FastAPI**, sem deixar de lado interfaces modernas com JavaScript, Vue.js e React.
+I'm a **Full Stack Software Engineer** experienced in developing and maintaining web applications, RESTful APIs, and system integrations. I work across the full application lifecycle, with a stronger focus on **backend development using PHP/Laravel and Python/FastAPI**, while also building modern interfaces with JavaScript, Vue.js, and React.
 
-Minha experiência também envolve bancos de dados MySQL, deploy e troubleshooting em ambientes Linux/Apache, serviços AWS, testes automatizados e investigação de problemas de desempenho, cache, consultas e integrações externas.
+My experience also includes MySQL databases, deployment and troubleshooting in Linux/Apache environments, AWS services, automated testing, and investigating performance, caching, database query, and external integration issues.
 
-Sou tecnólogo em **Sistemas para Internet pelo IFRN**, possuo **três certificações AWS** e atualmente curso pós-graduação em **Inteligência Artificial e Ciência de Dados**. Também continuo aprofundando meus estudos em arquitetura de software e cloud engineering.
+I hold a degree in **Internet Systems Technology from IFRN**, have earned **three AWS certifications**, and am currently pursuing a postgraduate program in **Artificial Intelligence and Data Science**. I continue to deepen my knowledge of software architecture and cloud engineering.
 
-Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escrita e conversação.
+I have **B2-level English proficiency** for technical reading, writing, and conversation.
 
-## Áreas de atuação
+## Areas of expertise
 
-- **Backend e APIs:** serviços RESTful, integrações externas, regras de negócio e aplicações PHP/Laravel e Python/FastAPI.
-- **Desenvolvimento full stack:** construção e evolução de produtos web do banco de dados à interface.
-- **Cloud e produção:** AWS, Docker, Linux, Apache, deploy, manutenção de ambientes e diagnóstico de incidentes.
-- **Qualidade de software:** testes automatizados, GitFlow, SOLID, Design Patterns e arquitetura de software.
+- **Backend and APIs:** RESTful services, external integrations, business rules, and applications built with PHP/Laravel and Python/FastAPI.
+- **Full stack development:** building and evolving web products from the database to the user interface.
+- **Cloud and production:** AWS, Docker, Linux, Apache, deployment, environment maintenance, and incident troubleshooting.
+- **Software quality:** automated testing, GitFlow, SOLID principles, Design Patterns, and software architecture.
 
-## Tecnologias
+## Technologies
 
-### Backend e dados
+### Backend and data
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -49,7 +53,7 @@ Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escri
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111" alt="React">
 </p>
 
-### Cloud, infraestrutura e engenharia
+### Cloud, infrastructure, and engineering
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
@@ -58,38 +62,38 @@ Tenho inglês intermediário (**nível B2**), com uso em leitura técnica, escri
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Testes%20automatizados-16A34A?style=flat-square" alt="Testes automatizados">
+  <img src="https://img.shields.io/badge/Automated%20testing-16A34A?style=flat-square" alt="Automated testing">
 </p>
 
-## Certificações AWS
+## AWS Certifications
 
 - AWS Certified Solutions Architect — Associate
 - AWS Certified Developer — Associate
 - AWS Certified Cloud Practitioner
 
-## Projetos públicos em destaque
+## Featured public projects
 
-| Projeto | O que ele resolve | Tecnologias |
+| Project | What it does | Technologies |
 |---|---|---|
-| [Eleições 2026 — RN](https://github.com/MagnosLima/eleicoes-2026-rn) | Centraliza candidaturas do RN e da Presidência, com atualização automática a partir dos dados do TSE. [Ver site](https://candidatos-rn-2026.netlify.app/) | HTML, CSS, JavaScript, Node.js, GitHub Actions, Netlify |
-| [FastAPI + Ollama Agent](https://github.com/MagnosLima/fastapi-ollama-agent-ai) | Explora agentes locais de IA por meio de uma API extensível. | Python, FastAPI, Ollama |
+| [Eleições 2026 — RN](https://github.com/MagnosLima/eleicoes-2026-rn) | Brings together presidential and Rio Grande do Norte candidates, with automated updates from Brazil's Electoral Court data. [View live site](https://candidatos-rn-2026.netlify.app/) | HTML, CSS, JavaScript, Node.js, GitHub Actions, Netlify |
+| [FastAPI + Ollama Agent](https://github.com/MagnosLima/fastapi-ollama-agent-ai) | Explores local AI agents through an extensible API. | Python, FastAPI, Ollama |
 
-## Interesses profissionais
+## Professional interests
 
-- Arquitetura e evolução de aplicações web.
-- Backend, APIs e integração entre serviços.
-- Cloud computing, automação e DevOps.
-- Inteligência artificial aplicada a produtos digitais.
-- Privacidade, segurança e qualidade de software.
+- Web application architecture and evolution.
+- Backend development, APIs, and service integration.
+- Cloud computing, automation, and DevOps.
+- Artificial intelligence applied to digital products.
+- Privacy, security, and software quality.
 
-## Vamos conversar?
+## Let's connect
 
-Gosto de trocar experiências sobre desenvolvimento full stack, backend, arquitetura, cloud e aplicações de inteligência artificial. Meus repositórios públicos mostram um pouco do que venho construindo e estudando.
+I enjoy exchanging ideas about full stack development, backend engineering, architecture, cloud, and AI applications. My public repositories showcase some of what I have been building and studying.
 
 <p align="center">
-  <a href="https://github.com/MagnosLima?tab=repositories">Ver todos os repositórios</a>
+  <a href="https://github.com/MagnosLima?tab=repositories">View all repositories</a>
   ·
-  <a href="https://www.linkedin.com/in/magnos-lima/">Conectar no LinkedIn</a>
+  <a href="https://www.linkedin.com/in/magnos-lima/">Connect on LinkedIn</a>
   ·
-  <a href="https://www.instagram.com/mag.lima.ig/">Conversar pelo Instagram</a>
+  <a href="https://www.instagram.com/mag.lima.ig/">Message me on Instagram</a>
 </p>
