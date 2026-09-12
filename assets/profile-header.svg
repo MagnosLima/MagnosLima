@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Magnos Lima — desenvolvedor web e mobile</title>
+  <desc id="desc">Banner em gradiente azul e violeta com elementos gráficos inspirados em tecnologia.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10162f"/>
+      <stop offset="0.55" stop-color="#23235f"/>
+      <stop offset="1" stop-color="#075985"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <g opacity="0.14" stroke="#ffffff">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+  <circle cx="1030" cy="80" r="155" fill="#22d3ee" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="1090" cy="260" r="130" fill="#8b5cf6" opacity="0.2" filter="url(#glow)"/>
+  <path d="M895 92 840 160l55 68M1085 92l55 68-55 68M1018 72l-56 176" fill="none" stroke="url(#accent)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <rect x="72" y="64" width="8" height="190" rx="4" fill="url(#accent)"/>
+  <text x="116" y="145" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="750">Magnos Lima</text>
+  <text x="118" y="198" fill="#c7d2fe" font-family="Segoe UI, Arial, sans-serif" font-size="25">Desenvolvimento web e mobile · APIs · automação · dados</text>
+  <text x="118" y="240" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Tecnólogo em Sistemas para Internet · IFRN</text>
+</svg>
